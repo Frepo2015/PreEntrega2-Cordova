@@ -1,0 +1,15 @@
+:root{
+    --background: #0a0a37;
+    --color1: #cfe2f3;
+    --color2: #1891db;
+    --color3: #B5C6D5;
+    --verde: #00BB23;
+    --amarillo: #E6E300;
+
+    --fuentePrincipal: 'Source Sans Pro', sans-serif;
+}
+html{
+    font-family: var(--fuentePrincipal);
+    gap: 1rem;
+    background-color: var(--color1);
+}
